@@ -12,6 +12,7 @@ One can refer to their project at http://jjrobots.com/b-robot
 3. A4988 Stepper motor driver carrier x2 (https://www.pololu.com/product/1182)
 4. NEMA17 Stepper motor x2 (http://www.motechmotor.com/products_detail.php?id=147&cid=70&page=1)
 5. 2 channels RC transmitter and receiver
+6. 3D printer : 86Duino Enjoy (http://www.86duino.com/?page_id=11733)
 
 ### Build environment
 
