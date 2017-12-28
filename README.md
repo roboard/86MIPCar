@@ -7,7 +7,7 @@ One can refer to their project at http://jjrobots.com/b-robot
 
 ### Required hardware
 
-1. 86Duino One
+1. 86Duino One (http://www.86duino.com/index.php?p=70)
 2. Prototype shield for Arduino Uno 
 3. A4988 Stepper motor driver carrier x2 (https://www.pololu.com/product/1182)
 4. NEMA17 Stepper motor x2 (http://www.motechmotor.com/products_detail.php?id=147&cid=70&page=1)
@@ -15,7 +15,7 @@ One can refer to their project at http://jjrobots.com/b-robot
 
 ### Build environment
 
-86Duino IDE, coding 315 (download page : http://www.86duino.com/?page_id=8918)
+86Duino IDE, coding 315 (http://www.86duino.com/?page_id=8918)
 
 ### Build procedure
 
@@ -29,4 +29,8 @@ One can refer to their project at http://jjrobots.com/b-robot
 
 PID gains depend on the chosen stepper motors and other mechanical parts. They should be tuned carefully. 
 
+### Demo Video
+<div align=center>
+<a href="https://www.youtube.com/watch?v=nLcuCH0ktfU"><img src="https://img.youtube.com/vi/nLcuCH0ktfU/0.jpg" alt="86MIPCar"></a>
+</div>
 
